@@ -1,1 +1,1 @@
-For information on installing libraries, see: http://www.arduino.cc/en/Guide/Libraries
+Para más información de cómo instalar librerías, mire: http://www.arduino.cc/en/Guide/Libraries
